@@ -1,0 +1,33 @@
+.cardspan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(196, 194, 194);
+    color:gray;
+    font-size: 2rem;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.badge{
+    position: relative;
+    top: 35px;
+    left: 75px;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.card-text{
+    color: black;
+    font-size: 1rem;
+}
